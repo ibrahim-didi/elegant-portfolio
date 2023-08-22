@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('../assets/academicons/css/academicons.min.css');
+
+.ai-size-32 {
+    font-size: 32px;
+  }  
