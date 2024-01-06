@@ -5,6 +5,7 @@
   A simple and effective portfolio website
 </p>
 
+<img src="./assets/mockup.png" alt="Mockup">
 
 ## Features
 
@@ -12,9 +13,11 @@
 ⚡️ Fully Responsive \
 ⚡️ One Page Layout \
 ⚡️ Styled with TailwindCSS \
-⚡️ Easy deployment with Gatsby
+⚡️ Easy deployment with Netlify
 
-To view a live version : **[click here](https://www.ibrahimdidi.com/)**
+To view a demo version : **[click here](https://elegantportfolio.netlify.app/)**
+
+To view a customized live version : **[click here](https://www.ibrahimdidi.com/)**
 
 ## 🚀 Quick start
 
@@ -69,8 +72,8 @@ npm install -g gatsby-cli
     Edit the pages in `src/pages/` to see your site update in real-time and your content come to life!
 
 
-## 🚀 Deployment with Gatsby Cloud
+## 🚀 Deployment with Netlify
 
-You can then deploy with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+You can then deploy with one click on [Netlify](https://www.netlify.com/):
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/)
+<a href="https://docs.netlify.com/site-deploys/create-deploys/"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
